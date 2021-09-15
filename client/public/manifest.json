@@ -1,0 +1,22 @@
+{
+  "short_name": "Quick Chat",
+  "name": "Kicks the shit out of Zoom",
+  "icons": [
+    {
+      "src": "./lightning64.png",
+      "sizes": "64x64",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+
+    {
+      "src": "./lightning.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
