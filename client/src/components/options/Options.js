@@ -94,7 +94,7 @@ const Options = () => {
 								background: "dodgerblue",
 								borderColor: "black",
 								color: "#fdf9f3",
-                boxShadow: "2px 5px 2px black",
+								boxShadow: "2px 5px 2px black",
 							}}
 							icon={<CopyOutlined />}
 							className={classes.btn}
@@ -110,7 +110,7 @@ const Options = () => {
 					marginBottom: "1.5rem",
 					border: "2px solid",
 					padding: "15px",
-          boxShadow: "5px 10px 2px #2c292d",
+					boxShadow: "5px 10px 2px #2c292d",
 				}}>
 				<strong>Make A Call</strong>
 
@@ -145,8 +145,8 @@ const Options = () => {
 							background: "dodgerblue",
 							borderColor: "black",
 							color: "fdf9f3",
-              boxShadow: "2px 5px 2px black",
-              margin:"auto",
+							boxShadow: "2px 5px 2px black",
+							margin: "auto",
 						}}
 						icon={<PhoneOutlined />}
 						onClick={() => {
